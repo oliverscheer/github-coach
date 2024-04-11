@@ -2,6 +2,18 @@
 
 [Back](../README.md)
 
+
+
+🛠️ Different Types of Actions ([docs](https://docs.github.com/en/actions/creating-actions/about-custom-actions)):
+
+- Container --> Self-Hosted Runner ([docs](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners#requirements-for-self-hosted-runner-machines))
+- JavaScript
+- Composite Actions
+
+🛍️ Marketplace
+
+🥸 Other interesting topics about actions:
+
 - [ ] Workflow Files: Define automated workflows using YAML syntax.
 - [ ] Triggers: Set up events that trigger workflows, such as push, pull request, or schedule.
 - [ ] Actions Marketplace: Discover and use pre-built actions created by the community.
