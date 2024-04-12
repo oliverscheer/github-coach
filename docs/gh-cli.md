@@ -68,4 +68,14 @@ gh issue create --label documentation
 
     </details>
 
+1. Run a Workflow
+
+    <details><summary>Solution</summary>
+
+    ```cmd
+    gh workflow run triage.yml -f name=scully -f greeting=hello
+    ```
+
+    </details>
+
 [Back](../README.md)
