@@ -2,8 +2,6 @@
 
 [Back](../README.md)
 
-
-
 🛠️ Different Types of Actions ([docs](https://docs.github.com/en/actions/creating-actions/about-custom-actions)):
 
 - Container --> Self-Hosted Runner ([docs](https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners#requirements-for-self-hosted-runner-machines))
@@ -11,6 +9,8 @@
 - Composite Actions
 
 🛍️ Marketplace
+
+<https://github.com/marketplace?type=actions>
 
 🥸 Other interesting topics about actions:
 

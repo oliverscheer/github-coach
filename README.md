@@ -9,12 +9,10 @@ Feel free to add things via PRs or Issues.
 - [ ] [GitHub CLI](docs/gh-cli.md)
 - [ ] [GitHub Pages](docs/github-pages.md)
 - [ ] [Codespaces](docs/codespaces.md)
+- [ ] [Projects](docs/projects.md)
+- [ ] GitHub -> Repository, Organization, Enterprise [docs](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts)
 - [ ] Code Review: Discuss and provide feedback on code changes within pull requests.
 - [ ] [GitHub Actions](docs/github-actions.md)
-- [ ] GitHub -> Repository, Organization, Enterprise [docs](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts)
-
-
-
 
 ## More GitHub Features
 
